@@ -5,7 +5,7 @@ Popcorn Bits Cinema is a movie app made with HTML, CSS, Javascript, jQuery and B
 
 [Live URL](http://www.dangconnie.com/movie-app/)
 
-[GitHub Repo](https://github.com/mohammed-25/movie-app)
+[GitHub Repo](https://github.com/Mohammed-25/movie-app)
 
 ## Table of contents
 
